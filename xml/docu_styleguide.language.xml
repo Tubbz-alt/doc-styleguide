@@ -8,6 +8,14 @@
  <title>Language</title>
 
  <para>
+  We write our documentation in English, using American English as default
+  variant. This mostly affects spelling of terms. If spellings differences exist
+  between American and British English, use the American English variant. For
+  example, use <literal>internationalization</literal> instead of
+  <literal>internationalisation</literal>.
+ </para>
+
+ <para>
   The following rules are intentionally kept concise. When in doubt about a
   style rule, see <citetitle>The Chicago Manual of Style</citetitle>,
   15th Edition. When in doubt about the spelling or usage of a word, first
