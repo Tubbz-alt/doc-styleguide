@@ -157,7 +157,8 @@
  <sect2 xml:id="sec-contraction">
   <title>Contractions</title>
   <para>
-   Do not use contractions, unless you are purposefully writing a casual
+   Do not use contractions (like <quote>don't</quote>, for example),
+   unless you are purposefully writing a casual
    document.
   </para>
  </sect2>
@@ -213,9 +214,10 @@
    </listitem>
    <listitem>
     <para>
-     Use a trailing slash to distinguish between a file and a
+     Use a trailing slash (for example, <filename>/etc/sysconfig/
+     </filename>) to distinguish between a file and a
      directory. If the distinction is important in the current context, in
-     addition comment on it in the accompanying or surrounding running text.
+     addition comment on it in the running text.
     </para>
    </listitem>
   </itemizedlist>
@@ -294,13 +296,13 @@
  <sect2 xml:id="sec-prefix">
   <title>Prefixes</title>
   <para>
-   Add a hyphen after the prefix to prefixed words only if:
+   Add a hyphen after the prefix only if:
   </para>
   <itemizedlist>
    <listitem>
     <para>
      The last letter of the prefix and the first letter of the word are the
-     same.
+     same (for example, <quote>semi-industrious</quote>).
     </para>
    </listitem>
    <listitem>
@@ -354,14 +356,13 @@
   <title>Tense</title>
   <para>
    Use the simple present tense. Apply the simple present tense even to
-   sentences with <quote>if</quote> or <quote>when</quote> clauses:
+   sentences with <quote>if</quote> or <quote>when</quote> clauses and to
+   prerequisites of an action:</para>
+  <para>
    <quote>If this happens, go there.</quote>
   </para>
   <para>
-   Prerequisites of an action should be expressed in the present tense as
-   well: <quote>Glibc is installed.</quote> In some cases, no verb is
-   necessary before the prerequisite of an action: <quote>a 1&nbsp;GHz
-   processor or better.</quote>
+   <quote>Glibc is installed.</quote>
   </para>
  </sect2>
 
@@ -451,16 +452,17 @@
   <para>
    Use quotations to quote from sources, such as books.
    In other cases, avoid using quotation marks.
-   Do not use irony and do not use quotation marks to mark irony.
-   In the case of computer input, computer output, and user
-   interface elements, use more appropriate markup. See also
+   For computer input, computer output, and user
+   interface elements, use different markup. See also
    <xref linkend="sec-command-line"/> and
    <xref linkend="sec-ui-item-markup"/>.
+   Also, do nor use quotations marks to mark irony. Avoid irony in
+   technical writing.
   </para>
   <para>
    To create quotations, use the
    <tag class="emptytag">quote</tag>
-   element, as it is easier to localize than hardcoded quotation marks and
+   element. It is easier to localize and
    always provides typographic quotes.
   </para>
   <para>
