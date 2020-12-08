@@ -83,55 +83,15 @@
    capitalize the first word of a sentence and proper names.
   </para>
   <para>
-   Use title-style capitalization for all types of headings and titles,
-   including admonition, figure, and table titles. This style is explained in
-   <citetitle>The Chicago Manual of Style</citetitle> 8.167. A simplified
-   version of these rules is below:
+   Use sentence-style capitalization for all types of headings and titles,
+   including admonition, figure, and table titles. This means that only
+   the first word of any title should be capitalized. For example:
+   "Chapter one".
   </para>
-  <orderedlist>
-   <listitem>
-    <para>
-     Capitalize the first and the last word.
-    </para>
-   </listitem>
-   <listitem>
-    <para>
-     Write articles in lowercase. Articles are: <emphasis>the</emphasis>,
-     <emphasis>a</emphasis>, and <emphasis>an</emphasis>.
-    </para>
-   </listitem>
-   <listitem>
-    <para>
-     Write prepositions in lowercase unless they are used with a verb
-     (<quote>Logging In</quote>) or in a noun (<quote>The On
-     Button</quote>). Prepositions are for example: <emphasis>up</emphasis>,
-     <emphasis>in</emphasis>, <emphasis>of</emphasis>,
-     <emphasis>through</emphasis>, and <emphasis>between</emphasis>.
-    </para>
-   </listitem>
-   <listitem>
-    <para>
-     Write certain conjunctions in lowercase: <emphasis>and</emphasis>,
-     <emphasis>but</emphasis>, <emphasis>for</emphasis>,
-     <emphasis>nor</emphasis>, and <emphasis>or</emphasis>.
-    </para>
-   </listitem>
-   <listitem>
-    <para>
-     Write <emphasis>as</emphasis> and <emphasis>to</emphasis> in lowercase.
-    </para>
-   </listitem>
-   <listitem>
-    <para>
-     Capitalize everything that is not mentioned above.
-    </para>
-   </listitem>
-  </orderedlist>
   <para>
-   In variable lists, capitalize the term in title style unless it is a
-   complete sentence. In all list items, use sentence-style capitalization
-   (capitalize the first letter and proper nouns only). Use title style for
-   row and column labels in tables.
+   In variable lists, capitalize the term in sentence style. In all list items,
+   row and column labels use sentence-style capitalization (capitalize the first
+   letter and proper nouns only).
   </para>
  </sect2>
 
