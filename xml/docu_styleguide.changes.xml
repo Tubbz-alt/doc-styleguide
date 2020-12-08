@@ -6,12 +6,21 @@
 ]>
 <appendix xmlns="http://docbook.org/ns/docbook" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0" xml:id="app-change">
 <!-- Add new versions to the beginning of the list. -->
- <title>List of Changes to the Style Guide</title>
+ <title>List of changes to the style guide</title>
  <info/>
  <para>
   This section lists the changes between versions of this Style Guide.
  </para>
 <!-- Add new versions to the beginning of the list. -->
+<sect1 xml:id="sec-change-2020-12">
+ <title>Changes 2020-12</title>
+ <itemizedlist>
+  <listitem>
+   <para>
+     Updated the Style Guide to recommend the use of sentence case titles.
+   </para>
+ </listitem>
+</itemizedlist>
  <sect1 xml:id="sec-change-2020-10">
   <title>Changes 2020-10</title>
   <itemizedlist>
