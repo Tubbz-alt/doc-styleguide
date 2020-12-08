@@ -80,18 +80,13 @@
   <title>Capitalization and Title Style</title>
   <para>
    In all running text, use sentence-style capitalization. That is, only
-   capitalize the first word of a sentence and proper names.
+   capitalize the first letter and proper names.
   </para>
   <para>
    Use sentence-style capitalization for all types of headings and titles,
-   including admonition, figure, and table titles. This means that only
-   the first word of any title should be capitalized. For example:
-   "Chapter one".
-  </para>
-  <para>
-   In variable lists, capitalize the term in sentence style. In all list items,
-   row and column labels use sentence-style capitalization (capitalize the first
-   letter and proper nouns only).
+   including admonition, figure, table titles, list items, and row and column
+   labels. This means that only the first word of any title should be capitalized.
+   For example: "Ceph core components".
   </para>
  </sect2>
 
