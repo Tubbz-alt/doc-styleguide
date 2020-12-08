@@ -1754,8 +1754,7 @@ xml:id="tab-install-source"</screen>
     explained by means of an explanatory paragraph.
    </para>
    <para>
-    Use sentence-style capitalization for the term. Use sentence-style for the
-    list item.
+    Use sentence-style capitalization for both the term and the list item.
    </para>
    <para>
     To reference the list, assign it a <tag class="attribute">xml:id</tag>
